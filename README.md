@@ -1,6 +1,5 @@
-<div style="background: linear-gradient(90deg, #0b3d91, #000000); height: 300px; display: flex; align-items: center; justify-content: center; color: white; font-size: 60px; font-family: Arial, sans-serif;">
-    <img src="/mnt/data/image.png" alt="Manchester United Logo" style="max-height: 200px;" />
-</div>
+<img src="/mnt/data/image.png" style="width: 100%;" />
+
 # Hello.👋🏻  
 
 
