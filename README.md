@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello.👋🏻  
 
-<!--
-**chanbro0524/chanbro0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+## 🔧 Skills  
+
+### Development Tools  
+
+
+### Collaboration Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
+## 🎈 Activities  
+| Activity                                                           | Duration              |
+| ------------------------------------------------------------------ | --------------------- |
+
+| Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
+
+
+## 🌐 Contributions  
+
+
+## 💎 PS  
+
+## 🔎 Projects  
+| Repository                                                             | Description                                               | Duration              |
+| ---------------------------------------------------------------------- | --------------------------------------------------------- | --------------------- |
+
+
+
