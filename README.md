@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
+<div style="background: linear-gradient(90deg, #0b3d91, #000000); height: 300px; display: flex; align-items: center; justify-content: center; color: white; font-size: 60px; font-family: Arial, sans-serif;">
+    <img src="/mnt/data/image.png" alt="Manchester United Logo" style="max-height: 200px;" />
+</div>
 # Hello.👋🏻  
 
 
