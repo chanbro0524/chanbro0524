@@ -1,4 +1,4 @@
-<img src="/mnt/data/image.png" style="width: 100%;" />
+![Image](https://github.com/user-attachments/assets/d0327a61-193e-4874-ae66-7d6349829cfc)
 
 # Hello.👋🏻  
 
