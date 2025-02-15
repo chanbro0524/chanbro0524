@@ -24,7 +24,7 @@
 | Activity                                                           | Duration              |
 | ------------------------------------------------------------------ | --------------------- |
 
-| Inha University, LIKELION 12th. Frontend Track                     | 2024.03 - 2024.12     |
+| Inha University, LIKELION 12th. Backend Track                     | 2024.03 - 2024.12     |
 
 
 ## 🌐 Contributions  
