@@ -22,8 +22,10 @@
 ## 🎈 Activities  
 | Activity                                                           | Duration              |
 | ------------------------------------------------------------------ | --------------------- |
-
+| Inha University, Statistics                                       | 2020.03 -             |
 | Inha University, LIKELION 12th. Backend Track                     | 2024.03 - 2024.12     |
+| Inha University, LIKELION 13th. Backend Track management team     | 2025.03 - 2024.12     |
+
 
 
 ## 🌐 Contributions  
