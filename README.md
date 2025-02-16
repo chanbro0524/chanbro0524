@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/d0327a61-193e-4874-ae66-7d6349829cfc)
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=red&height=300&section=header&text=Welcome%20to%20chanbro%20world%20%F0%9F%A4%97))
 # Hello.👋🏻  
 
 
