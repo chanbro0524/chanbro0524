@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanbro0524)](https://github.com/anuraghazra/github-readme-stats)
 
 [![코드트리|실력진단-dlcksgud208](https://banner.codetree.ai/v1/banner/dlcksgud208)](https://www.codetree.ai/profiles/dlcksgud208)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksgud208)](https://solved.ac/dlcksgud208/)
 <div align="center">
 
 ## 🔧 Skills  
