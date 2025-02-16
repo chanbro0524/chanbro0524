@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=red&height=300&section=header&text=Welcome%20to%20chanbro%20world%20%F0%9F%A4%97))
+![header](https://capsule-render.vercel.app/api?type=rounded&color=red&height=300&section=header&text=Welcome%20to%20chanbro%20world%20%F0%9F%A4%97))
 # Hello.👋🏻  
 
 
